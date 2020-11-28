@@ -1,4 +1,4 @@
-1. to print until next chritmas
+1. To print until next chritmas
 
 today=new Date();
 var cmas=new Date(today.getFullYear(), 11, 27);
